@@ -10,8 +10,7 @@ class Roschelle:
     name = "Roschelle Matthews-Rhoden"
     uni = "The University of the West Indies"
     inNeedOfCoffee = True
-    hobbies = ["Swimming", "Badminton", "Coding",
-    "Reading Horror Fiction", "Video Editing"]
+    hobbies = ["Swimming", "Badminton", "Coding", "Video Editing", "Reading Horror Fiction"]
 
 
 def calFuture(practice, determined, skills):
