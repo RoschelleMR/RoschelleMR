@@ -1,10 +1,10 @@
-<h1 align= "center"> <img src="typingcat.gif" width="28" /> Hi, I'm Roschelle! </h1>
+<h1 align= "center"> <img src="images/typingcat.gif" width="28" /> Hi, I'm Roschelle! </h1>
 
 <p align= "center">Student - Video Editor - Software Developer</p>
 
 ### Who is Roschelle?
 
-<img src = 'computer-nerd.gif' align='right' width = 150px />
+<img src = 'images/computer-nerd.gif' align='right' width = 150px />
 
 ```python
 
