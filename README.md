@@ -23,7 +23,7 @@ def calFuture(practice, determined, skills):
 
 ```
 
-## My Skillset
+<h3>My Skillset</h3>
 
 <p> </p>
 
@@ -31,7 +31,7 @@ def calFuture(practice, determined, skills):
 
 ---
 
-## 🌱 I’m currently learning:
+<h3>🌱 I’m currently learning:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,react)](https://skills.thijs.gg)
 
