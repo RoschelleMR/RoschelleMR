@@ -1,6 +1,6 @@
 <h1 align= "center"> <img src="images/typingcat.gif" width="35" /> Hi, I'm Roschelle! </h1>
 
-<p align= "center">Student - Video Editor - Software Developer</p>
+<p align= "center">Student - Software Developer</p>
 
 ### Who is Roschelle?
 
