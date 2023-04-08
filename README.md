@@ -32,7 +32,7 @@ def calFuture(practice, determined, skills):
 
 <h3>🌱 I’m currently learning:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,react,vue)](https://skills.thijs.gg)
 
 <p>Contact Me:</p>
 <a href="mailto:roschellematthewsrhoden@gmail.com?subject=%20Roschelle%20Matthews-Rhoden"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
